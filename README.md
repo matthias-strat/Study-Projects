@@ -1,2 +1,2 @@
-# Study-Projects
-A collection of projects which I made for my study
+# study-exercises
+A collection of C and C++ exercises from my university.
