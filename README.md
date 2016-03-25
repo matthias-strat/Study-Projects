@@ -1,2 +1,2 @@
 # study-exercises
-A collection of C and C++ exercises from my university.
+A collection of C, C++ and ASM exercises of my university.
