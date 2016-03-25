@@ -1,0 +1,18 @@
+Bachelor Informatik.Softwaresysteme
+Qualifikationsziele
+Ziel der Ausbildung im Studiengang Informatik.Softwaresysteme ist es, Menschen fr die 
+anspruchsvolle und interessante Arbeit im Umfeld der Informatik zu qualifizieren. Die 
+Absolventinnen und Absolventen erhalten eine Berufsbef„higung zum professionellen Entwurf und 
+zur Erstellung von Softwaresystemen, sowie die Begleitung solcher Systeme ber den kompletten 
+Lebenszyklus vom Konzept ber Planung, Implementierung, Test, Auslieferung bis hin zum Update. 
+Die F„cher des Studiengangs spannen daher einen weiten Bogen vom Softwaredesign ber die 
+verschiedenen Werkzeuge bis hin zur Programmierung in verschiedenen Sprachen, enth„lt aber auch 
+begleitende F„cher wie z.B. Projektmanagement. 
+Im Studiengang werden die Aspekte Business, Entertainment und Mobile explizit mit entsprechenden 
+Wahlm”glichkeiten angesprochen. Die F„cherauswahl ist hierbei bewusst flexibel gestaltet, um den 
+jeweiligen Interessen der Studierenden optimalen Entfaltungsspielraum zu geben und um vielf„ltige 
+Spezialisierungsm”glichkeiten zu bieten. Neben den Kernf„chern aus der Informatik bestehen 
+weitere Wahlm”glichkeiten aus benachbarten Studieng„ngen wie z.B. der Wirtschaftsinformatik. 
+Die jungen Absolventinnen und Absolventen sind in der Lage, fr die in Software abzubildenden 
+Prozesse ein Modell zu entwickeln, die Einflussgr”áen zu definieren, Datenstrukturen zu erarbeiten 
+und eine passende Softwarearchitektur zu entwerfen und zu implementieren.
